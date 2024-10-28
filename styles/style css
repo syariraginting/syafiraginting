@@ -45,12 +45,12 @@ nav a:hover {
 
 .profile header {
   text-align: center;
-  width: 100px
+  width: 50px
 }
 
 .featured-image {
   width: 100%;
-  max-height: 300px;
+  max-height: 100px;
 
   object-fit: cover;
   object-position: center;
@@ -79,7 +79,7 @@ nav a:hover {
 nav li {
   display: inline;
   list-style-type: none;
-  margin-right: 20px;
+  margin-right: 50px;
 }
 
 nav {
