@@ -33,7 +33,7 @@ footer {
 
 nav a {
   font-size: 12px;
-  font-weight: 200;
+  font-weight: 100px;
   text-decoration: none;
   color: white;
   font-weight:bold;
@@ -45,6 +45,7 @@ nav a:hover {
 
 .profile header {
   text-align: center;
+  width: 100px
 }
 
 .featured-image {
@@ -56,7 +57,7 @@ nav a:hover {
 }
 
 .profile img {
-  max-width: 200px;
+  max-width: 80px;
 }
 
 .card {
