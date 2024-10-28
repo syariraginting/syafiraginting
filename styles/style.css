@@ -32,11 +32,16 @@ footer {
 }
 
 nav a {
-  font-size: 12px;
-  font-weight: 100px;
+  font-size: 20px
   text-decoration: none;
   color: white;
   font-weight:bold;
+  
+}
+
+td{
+  font-size: 15px;
+  font-weight: 100px;
 }
 
 nav a:hover {
