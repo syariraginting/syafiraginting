@@ -11,27 +11,32 @@ body {
 }
 
 h2,
-h3,
 h4{
   color: pink;
 }
+h3{
+    color:aqua;
+}
 
+h1{
+    color:purple;
+    text-align:center;
+    font-weight:bold;
+}
 footer {
   padding: 20px;
   color: white;
-  background-color: #00a2c6;
-
+  background-color: aqua;
   text-align: center;
   font-weight: bold;
 }
 
 nav a {
-  font-size: 18px;
-
-  font-weight: 400;
+  font-size: 12px;
+  font-weight: 200;
   text-decoration: none;
-
   color: white;
+  font-weight:bold;
 }
 
 nav a:hover {
@@ -65,7 +70,7 @@ nav a:hover {
 .jumbotron {
   font-size: 20px;
   padding: 60px;
-  background-color: #00c8eb;
+  background-color: aqua;
   text-align: center;
   color: white;
 }
@@ -77,7 +82,7 @@ nav li {
 }
 
 nav {
-  background-color: #00a2c6;
+  background-color: aqua;
   padding: 5px;
 
   position: sticky;
